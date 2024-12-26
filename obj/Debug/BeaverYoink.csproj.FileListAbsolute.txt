@@ -1,0 +1,7 @@
+D:\ImportantData\Coding\C#\BeaverYoink\bin\Debug\BeaverYoink.exe.config
+D:\ImportantData\Coding\C#\BeaverYoink\bin\Debug\BeaverYoink.exe
+D:\ImportantData\Coding\C#\BeaverYoink\bin\Debug\BeaverYoink.pdb
+D:\ImportantData\Coding\C#\BeaverYoink\obj\Debug\BeaverYoink.csproj.AssemblyReference.cache
+D:\ImportantData\Coding\C#\BeaverYoink\obj\Debug\BeaverYoink.csproj.CoreCompileInputs.cache
+D:\ImportantData\Coding\C#\BeaverYoink\obj\Debug\BeaverYoink.exe
+D:\ImportantData\Coding\C#\BeaverYoink\obj\Debug\BeaverYoink.pdb
